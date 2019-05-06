@@ -4,8 +4,12 @@ Integrantes del equipo:
 
 Chávez Onofre Gonzalo
 
-García Sánchez Ana Karen 
+García Sánchez Ana Karen
 
-Liberos Sánchez José Angel 
+Liberos Sánchez José Angel
 
-Piña Reyes Cristopher Alan.
+López González Luis Alberto
+
+Piña Reyes Cristopher Alan
+
+Trujillo Zamudio Misael
